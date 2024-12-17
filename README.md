@@ -29,6 +29,12 @@ The crawler begins scraping the following websites:
 
 It looks for articles that mention key terms such as "APT," "zero-day," "exploit," "vulnerability," "CVE," "cyberattack," and more. When these terms are found, the crawler extracts the title, link, and summary of the article for further analysis.
 
+## Contribute - If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request with your changes. Contributions may include:
+
+    Adding new websites to scrape.
+    Improving the keyword matching algorithm.
+    Optimizing the crawler for performance.
+
 ## Setup
 
 1. Clone this repository:
